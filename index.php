@@ -49,9 +49,9 @@ Saya selalu berusaha memberikan solusi inovatif dalam setiap proyek yang saya ke
                 <p>-Bahasa Inggris (Menengah)</p>
 
                 <h2>Sertifikat</h2>
-                <p>-Belajar Unity untuk Pemula - Dicoding (2024)</p>
-                <p>-Dasar-Dasar Pemrograman dengan Unity - Dicoding (2023)</p>
-                <p>-Sertifikasi Microsoft Office Specialist (MOS) - Microsoft (2024)</p>
+                <p>-Belajar Unity untuk Pemula - unity (2024)</p>
+                <p>-Dasar-Dasar Pemrograman - Dicoding (2023)</p>
+                <p></p>
             </section>
             <?php
         } elseif ($page == 'projects') {
